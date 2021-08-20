@@ -19,14 +19,21 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
-
+🇧🇷 Português Brasil
 - 👨‍💻 Analista de Risco e Compliance na **Proethic Consultoria de Compliance**.
 - 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- 💙 Interesse: Python, R, HTML, CSS, JavaScript, SQL, Analytics...
-- 📕 Estudando: Python 3.9 e RStudio.
+- 💙 Interesse: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
+- 📕 Estudando: Python 3.9
 - 🎸 Músico: Toco Banjo e violão na banda O Bando do Banjo
 
+🇺🇸 	English
+- 👨‍💻 Risk and Compliance Analyst at **Proethic Compliance Consulting**.
+- 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
+- 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
+- 💙 Interest: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
+- 📕 Studying: Python 3.9
+- 🎸 Musician: Play Banjo and guitar in the band "O Bando do Banjo"
 
 ## Contact :iphone:
 
