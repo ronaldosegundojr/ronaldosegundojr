@@ -21,7 +21,7 @@
 ### Abstract
 
 - 👨‍💻 Analista de Risco e Compliance na **Proethic Consultoria de Compliance**.
-- 🌱 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
+- 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
 - 💙 Interesse: Python, R, HTML, CSS, JavaScript, SQL, Analytics...
 - 📕 Estudando: Python 3.9 e RStudio.
