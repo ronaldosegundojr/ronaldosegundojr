@@ -1,12 +1,4 @@
-🇧🇷 Português Brasil
-- 👨‍💻 Analista de Risco e Compliance na **Proethic Consultoria de Compliance**.
-- 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
-- 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- 💙 Interesse: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
-- 📕 Estudando: Python 3.9
-- 🎸 Músico: Toco Banjo e violão na banda O Bando do Banjo
-
-<p align="right">
+<p align="center">
   <a href="#">
     <img align="center" width="450" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
@@ -62,8 +54,8 @@
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/ronaldosegundojr/count.svg" />
+ <p align="left"> 
+   <img alingn="left" src="https://profile-counter.glitch.me/ronaldosegundojr/count.svg" />
  </p>
 
 </p>
