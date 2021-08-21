@@ -5,7 +5,7 @@
 </p>
 </br>
 </br>
-<p align="center">
+<p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
