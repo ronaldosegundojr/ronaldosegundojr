@@ -17,7 +17,17 @@
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+<p align="left">
+  <a href="#">
+    🇧🇷 Português Brasil
+- 👨‍💻 Analista de Risco e Compliance na **Proethic Consultoria de Compliance**.
+- 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
+- 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
+- 💙 Interesse: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
+- 📕 Estudando: Python 3.9
+- 🎸 Músico: Toco Banjo e violão na banda O Bando do Banjo
+  </a>
+</p>
 ### Abstract
 🇧🇷 Português Brasil
 - 👨‍💻 Analista de Risco e Compliance na **Proethic Consultoria de Compliance**.
