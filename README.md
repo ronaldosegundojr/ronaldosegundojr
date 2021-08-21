@@ -1,7 +1,6 @@
 <p align="center">
   <a href="#">
-    <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
-    <img align="center" width="450" src="dev.gif" />
+    <img align="center" width="450" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
 </br>
