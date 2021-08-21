@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a href="#">
     <img align="center" width="450" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
