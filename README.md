@@ -5,7 +5,7 @@
 </p>
 </br>
 </br>
-<p align="right">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -35,7 +35,7 @@
 - 📕 Studying: Python 3.9
 - 🎸 Musician: Play Banjo and guitar in the band "O Bando do Banjo"
 
-## Contact :iphone:
+<p align="center">## Contact :iphone:</p>
 
 <p align="center">
     <a href="https://github.com/ronaldosegundojr">
