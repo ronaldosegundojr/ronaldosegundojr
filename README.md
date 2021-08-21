@@ -35,7 +35,7 @@
 - 📕 Studying: Python 3.9
 - 🎸 Musician: Play Banjo and guitar in the band "O Bando do Banjo"
 
-<p align="center"> **Contact** :iphone:</p>
+##Contact :iphone:
 
 <p align="center">
     <a href="https://github.com/ronaldosegundojr">
