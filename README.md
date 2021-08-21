@@ -48,7 +48,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/r-segundojr">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/r-segundojr/">
-      [![github.com/ronaldosegundojr]( https://img.shields.io/github/followers/ronaldosegundojr?label=follow&style=social)](https://github.com/ronaldosegundojr)
+      [![github.com/ronaldosegundojr]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/ronaldosegundojr)
     </a>
 </p>
 
