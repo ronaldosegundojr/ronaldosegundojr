@@ -24,7 +24,7 @@
 - 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
 - 💙 Interesse: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
-- 📕 Estudando: Python 3.9
+- 📕 Estudando: Python
 - 🎸 Músico: Toco Banjo e violão na banda O Bando do Banjo
 
 🇺🇸 	English
@@ -32,7 +32,7 @@
 - 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
 - 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
 - 💙 Interest: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
-- 📕 Studying: Python 3.9
+- 📕 Studying: Python
 - 🎸 Musician: Play Banjo and guitar in the band "O Bando do Banjo"
 
 ## Contato :iphone:
