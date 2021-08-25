@@ -60,3 +60,5 @@
 
 </p>
 
+![Snake animation](https://github.com/ronaldosegundojr/ronaldosegundojr/blob/output/github-contribution-grid-snake.svg)
+
