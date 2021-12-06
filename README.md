@@ -20,7 +20,7 @@
 
 ### Abstract
 🇧🇷 Português Brasil
-- 👨‍💻 Analista de Risco e Compliance na **Proethic Consultoria de Compliance**.
+- 👨‍💻 Analista de Dados na **Proethic Consultoria de Compliance**.
 - 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
 - 💙 Interesse: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
@@ -28,7 +28,7 @@
 - 🎸 Músico: Toco Banjo e violão na banda O Bando do Banjo
 
 🇺🇸 	English
-- 👨‍💻 Risk and Compliance Analyst at **Proethic Compliance Consulting**.
+- 👨‍💻 Data Analyst at **Proethic Compliance Consulting**.
 - 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
 - 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
 - 💙 Interest: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
