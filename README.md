@@ -25,7 +25,7 @@
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
 - 💙 Interesse: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
 - 📕 Estudando: Python
-- 🎸 Músico: Toco Banjo e violão na banda O Bando do Banjo
+
 
 🇺🇸 	English
 - 👨‍💻 **Data Analyst** at **Proethic Compliance Consulting**.
@@ -33,7 +33,7 @@
 - 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
 - 💙 Interest: Python, R, RStudio, HTML, CSS, JavaScript, SQL, Analytics...
 - 📕 Studying: Python
-- 🎸 Musician: Play Banjo and guitar in the band "O Bando do Banjo"
+
 
 ## Contato :iphone:
 
