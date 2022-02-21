@@ -30,10 +30,9 @@
 <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  </p>
-<h3><b>Olá!</b></h3> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <h3><b>Abstract</b></h3>
-<p> 🇧🇷 - <h3><b> Português Brasil</b></h3></p>
+🇧�<h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
 - 👨‍💻 <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
 - 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
