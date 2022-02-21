@@ -13,10 +13,13 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosegundojr&layout=compact&theme=merko"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldosegundojr&theme=merko">
   </a>
 </p>
+
+-->
 
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
