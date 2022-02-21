@@ -41,7 +41,7 @@
 - 📕 Estudando Atualmente: Desenvolvimento Web com HTML, CSS E Javascript.
 
 
-🇺🇸 	<h3><b>English</b></h3>
+ 	<h3><b>🇺🇸 - English</b></h3>
 - 👨‍💻 **Data Analyst** at **Proethic Compliance Consulting**.
 - 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
 - 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
