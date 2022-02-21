@@ -40,8 +40,7 @@
 - 💙 Interesse: Desenvolvimento Backend, Desenvolvimento Front-End, Análise de Dados, QA, Segurança da informação.
 - 📕 Estudando Atualmente: Desenvolvimento Web com HTML, CSS E Javascript.
 
-
- 	<h3><b>🇺🇸 - English</b></h3>
+<h3><b>🇺🇸 - English</b></h3>
 - 👨‍💻 **Data Analyst** at **Proethic Compliance Consulting**.
 - 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
 - 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
@@ -50,7 +49,7 @@
 - 📕 Currently Studying: Web Development with HTML, CSS and Javascript.
 
 
-<h3><b>Contato</b></h3> :iphone:
+<h3><b>Contato :iphone: </b></h3>
 
 <p align="center">
     <a href="https://github.com/ronaldosegundojr">
