@@ -21,7 +21,7 @@
 -->
 
 
-<h3 align="center">## **Linguagens e Ferramentas:** </h3>
+<h3 align="center"><b>Linguagens e Ferramentas:</b></h3>
 <p align="center">
 <code><img height="30" src="https://cdn.picpng.com/logo/language-logo-python-44976.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -32,8 +32,8 @@
  </p>
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
-🇧🇷 Português Brasil
+### <h3><b>Abstract</b></h3>
+🇧🇷 <h3><b>Português Brasil</b></h3>
 - 👨‍💻 **Analista de Dados** na **Proethic Consultoria de Compliance**.
 - 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
@@ -42,7 +42,7 @@
 - 📕 Estudando Atualmente: Desenvolvimento Web com HTML, CSS E Javascript.
 
 
-🇺🇸 	English
+🇺🇸 	<h3><b>English</b></h3>
 - 👨‍💻 **Data Analyst** at **Proethic Compliance Consulting**.
 - 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
 - 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
