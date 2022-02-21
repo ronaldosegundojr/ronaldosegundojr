@@ -14,7 +14,7 @@
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosegundojr&hide=html&layout=compact&theme=merko">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldosegundojr&theme=merko">
   </a>
 </p>
 
