@@ -1,9 +1,12 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+Friend;Welcome+to+my+Github+profile" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+Friend;Welcome+to+my+Github+profile;width=500&amp;height=50" style="max-width: 100%;"></p>
+<!--
 <p align="center">
   <a href="#">
     <img align="center" width="450" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
+-->
+
 </br>
 </br>
 <p align="center">
