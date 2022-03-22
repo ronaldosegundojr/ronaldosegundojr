@@ -39,7 +39,7 @@
 - 👨‍💻 <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
 - 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- 💻 Principais Tecnologias: Python, HTML, CSS, Javascript, Git and Github.
+- 💻 Principais Tecnologias: Python, HTML, CSS, Javascript, Git e Github.
 - 💙 Interesse: Desenvolvimento Backend, Desenvolvimento Front-End, Análise de Dados, QA, Segurança da informação.
 - 📕 Estudando Atualmente: Desenvolvimento Web com HTML, CSS E Javascript.
 
