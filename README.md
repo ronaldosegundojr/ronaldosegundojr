@@ -36,21 +36,21 @@
 
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
-- 👨‍💻 <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
-- 💻 Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
-- 🏤 Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- 💻 Principais Tecnologias: Python, HTML, CSS, Javascript, Git e Github.
-- 💙 Interesse: Desenvolvimento Backend, Desenvolvimento Front-End, Análise de Dados, QA, Segurança da informação.
-- 📕 Estudando Atualmente: Desenvolvimento Web com HTML, CSS E Javascript.
+- <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
+- Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
+- Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
+- Principais Tecnologias: Python, HTML, CSS, Javascript, Git e Github.
+- Interesse: Desenvolvimento Backend, Desenvolvimento Front-End, Análise de Dados, QA, Segurança da informação.
+- Estudando Atualmente: Desenvolvimento Web com HTML, CSS E Javascript.
 
 <h3><b>🇺🇸 - English</b></h3>
 
-- 👨‍💻 **Data Analyst** at **Proethic Compliance Consulting**.
-- 💻 Student of **Statistics and Data Science**, currently attending the **4th semester**.
-- 🏤 University: **University of São Paulo (USP) - São Carlos-SP Campus**
-- 💻 Main Technologies: Python, HTML, CSS, Javascript, Git and Github.
-- 💙 Interest: Backend Development, Front-End Development, Data Analysis, QA, Information Security.
-- 📕 Currently Studying: Web Development with HTML, CSS and Javascript.
+- **Data Analyst** at **Proethic Compliance Consulting**.
+-  Student of **Statistics and Data Science**, currently attending the **4th semester**.
+-  University: **University of São Paulo (USP) - São Carlos-SP Campus**
+-  Main Technologies: Python, HTML, CSS, Javascript, Git and Github.
+-  Interest: Backend Development, Front-End Development, Data Analysis, QA, Information Security.
+-  Currently Studying: Web Development with HTML, CSS and Javascript.
 
 
 
