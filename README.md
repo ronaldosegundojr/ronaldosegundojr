@@ -59,6 +59,7 @@
       <a href="https://ronaldosegundojr.github.io/site.ronaldosegundojr/">
         <img src="https://camo.githubusercontent.com/992817a4faf2ac4a0c0be283728c2c09d06c2703acce2ad8bf31f27a0a3b9174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465">
     </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ronaldosegundojr">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/ronaldosegundojr">
     </a>
