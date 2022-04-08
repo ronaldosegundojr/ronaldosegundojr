@@ -55,7 +55,7 @@
 
 
 <h3><b>Contato :iphone: </b></h3>
-
+<img src="https://ronaldosegundojr.github.io/site.ronaldosegundojr/" data-canonical-src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;">
 <p align="center">
     <a href="https://github.com/ronaldosegundojr">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/ronaldosegundojr">
