@@ -80,5 +80,6 @@
    <img alingn="left" src="https://profile-counter.glitch.me/ronaldosegundojr/count.svg" />
  </p>
  
- ![Snake animation](https://github.com/ronaldosegundojr/ronaldosegundojr/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ronaldosegundojr/ronaldosegundojr/tree/main/.github/workflows/main.yml)
+ https://github.com/ronaldosegundojr/ronaldosegundojr/tree/main/.github/workflows
  
