@@ -46,12 +46,13 @@
 
 <h3><b>🇺🇸 - English</b></h3>
 
-- **Data Analyst** at **Proethic Compliance Consulting**.
--  Student of **Statistics and Data Science**, currently attending the **4th semester**.
--  University: **University of São Paulo (USP) - São Carlos-SP Campus**
--  Main Technologies: Python, HTML, CSS, Javascript, Git and Github.
--  Interest: Data Science, Backend Development, Front-End Development, Data Analysis, QA, Information Security.
--  Currently Studying: Web Development with HTML, CSS and Javascript.
+- <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b>.
+- <b>3 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance</b>.
+- Student of **Statistics and Data Science** currently in the 4th semester.
+- University: **University of São Paulo (USP) - Câmpus São Carlos-SP**
+- Main Technologies: SQL, Python, Tableau (for Dataviz), Hadoop, Impala Hue SQL, Agile SCRUM Methodology, HTML, CSS, Javascript, Git e Github.
+- Interest: Big Data, Data Engineering, Data Vizualization, Data Analytics, Data Architecture, Data Science, Power BI, Machine Learning, AI, Redteam, Front-End Development, QA, Information Security.
+- Currently Studying: Tableau and SQL.
 
 
 
