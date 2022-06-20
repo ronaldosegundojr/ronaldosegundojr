@@ -40,8 +40,8 @@
 - <b>3 anos atuando como Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
 - Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- Principais Tecnologias: SQL, Python, Tableau (para Dataviz), HTML, CSS, Javascript, Git e Github.
-- Interesse: Big Data, Engenharia de Dados, Análise de Dados, Arquitetura de Dados, Data Science, Machine Learning, IA, Redteam, Desenvolvimento Front-End, QA, Segurança da informação.
+- Principais Tecnologias: SQL, Python, Tableau (para Dataviz), Hadoop, Impala Hue SQL, Metodologia Agil SCRUM, HTML, CSS, Javascript, Git e Github.
+- Interesse: Big Data, Engenharia de Dados, Data Vizualization, Análise de Dados, Arquitetura de Dados, Data Science, Power BI, Machine Learning, IA, Redteam, Desenvolvimento Front-End, QA, Segurança da informação.
 - Estudando Atualmente: Tableau e SQL.
 
 <h3><b>🇺🇸 - English</b></h3>
