@@ -37,7 +37,7 @@
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
 - <b>Analista de Dados</b> na <b>Hoffmann–La Roche</b> atuando no time <b>DASO (Data and Analytics Solution Organization)</b> como <b>Business Analyst (BA)</b> dentro do modelo <b>SCRUM.</b>
-- <b>3 anos atuando como Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
+- <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b> - <b> 3 anos de experiência </b>.
 - Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
 - Principais Tecnologias: SQL, Python, Tableau (para Dataviz), Hadoop, Impala Hue SQL, Metodologia Agil SCRUM, HTML, CSS, Javascript, Git e Github.
