@@ -79,8 +79,6 @@
  <p align="left"> 
    <img alingn="left" src="https://profile-counter.glitch.me/ronaldosegundojr/count.svg" />
  </p>
-###
-
-<img href="https://raw.githubusercontent.com/ronaldosegundojr/ronaldosegundojr/blob/output/snake.svg" alt="Snake animation" />
-
-###
+ 
+ ![Snake animation](https://github.com/ronaldosegundojr/ronaldosegundojr/blob/output/github-contribution-grid-snake.svg)
+ 
