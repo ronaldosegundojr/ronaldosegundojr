@@ -36,7 +36,7 @@
 
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
-- <b>Analista de Dados</b> na <b>Hoffmann–La Roche</b> atuando no time <b>DASO (Data and Analytics Solution Organization)</b> como <b>Business Analyst (BA)</b>.
+- <b>Analista de Dados</b> na <b>Hoffmann–La Roche</b> atuando no time <b>DASO (Data and Analytics Solution Organization)</b> como <b>Business Analyst (BA)</b> dentro do modelo <br>SCRUM</br>.
 - <b>3 anos atuando como Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b>.
 - Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
 - Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
@@ -46,7 +46,7 @@
 
 <h3><b>🇺🇸 - English</b></h3>
 
-- <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b>.
+- <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b>SCRUM</b>.
 - <b>3 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance</b>.
 - Student of **Statistics and Data Science** currently in the 4th semester.
 - University: **University of São Paulo (USP) - Câmpus São Carlos-SP**
