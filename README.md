@@ -46,7 +46,7 @@
 
 <h3><b>🇺🇸 - English</b></h3>
 
-- <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b> SCRUM. </b>
+- <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b> SCRUM. </b> (2022 - 2023)
 - <b>3 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance</b>.
 - Student of **Statistics and Data Science** currently in the 4th semester.
 - University: **University of São Paulo (USP) - Câmpus São Carlos-SP**
