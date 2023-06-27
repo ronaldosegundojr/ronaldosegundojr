@@ -36,6 +36,7 @@
 
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
  - Mai/2023 - <b></b>Web Analytics Associate Analyst</b> na <b>Media.Monks</b>
+ 
 - <b>Analista de Dados</b> na <b>Hoffmann–La Roche</b> atuando no time <b>DASO (Data and Analytics Solution Organization)</b> como <b>Business Analyst (BA)</b> dentro do modelo <b>SCRUM.</b>  (Mai/2022 - Jan/2023)
 - <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b> - <b> 4 anos de experiência </b>.
 - Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
