@@ -36,32 +36,27 @@
 
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
-- <b>Web Analytics Associate Analyst</b> na <b>Media.Monks</b> (Mai/2023)
+- <b>Web Analytics Analyst</b> na <b>Media.Monks</b> (Mai/2023 - Out/2024)
 - <b>Analista de Dados</b> na <b>Hoffmann–La Roche</b> atuando no time <b>DASO (Data and Analytics Solution Organization)</b> como <b>Business Analyst (BA)</b> dentro do modelo <b>SCRUM.</b>  (Mai/2022 - Jan/2023)
 - <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b> - <b> 5 anos de experiência </b>.
-- Estudante de **Estatística e Ciência de Dados**, atualmente cursando o 4° semestre.
+- Estudante de **Estatística e Ciência de Dados**
 - Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- Principais Tecnologias: SQL, Python, Tableau (para Dataviz), Hadoop, Impala Hue SQL, Metodologia Agil SCRUM, HTML, CSS, Javascript, Git e Github.
-- Interesse: Big Data, Engenharia de Dados, Data Vizualization, Análise de Dados, Arquitetura de Dados, Data Science, Power BI, Machine Learning, IA, Redteam, Desenvolvimento Front-End, QA, Segurança da informação.
-- Estudando Atualmente: Tableau e SQL.
+- Principais Tecnologias: SQL, Python, Tableau, Javascript, Google Analytics 4, Google Tag Maneger, SCRUM, HTML, CSS, Git, Flask, React, Nextjs.
 
 <h3><b>🇺🇸 - English</b></h3>
 
-- <b>Web Analytics Associate Analyst</b> at <b>Media.Monks</b> (Mai/2023)
+- <b>Web Analytics Analyst</b> at <b>Media.Monks</b> (Mai/2023 - Out/2024)
 - <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b> SCRUM. </b> (Mai/2022 - Jan/2023)
 - <b>5 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance</b>.
-- Student of **Statistics and Data Science** currently in the 4th semester.
+- Student of **Statistics and Data Science**
 - University: **University of São Paulo (USP) - Câmpus São Carlos-SP**
-- Main Technologies: SQL, Python, Tableau (for Dataviz), Hadoop, Impala Hue SQL, Agile SCRUM Methodology, HTML, CSS, Javascript, Git e Github.
-- Interest: Big Data, Data Engineering, Data Vizualization, Data Analytics, Data Architecture, Data Science, Power BI, Machine Learning, AI, Redteam, Front-End Development, QA, Information Security.
-- Currently Studying: Tableau and SQL.
-
+- Main Technologies: SQL, Python, Tableau, Javascript, Google Analytics 4, Google Tag Maneger, SCRUM, HTML, CSS, Git, Flask, React, Nextjs.
 
 
 <h3><b>Contato :iphone: </b></h3>
 <p align="center">
       <a href="https://ronaldosegundojr.github.io/site.ronaldosegundojr/">
-        <img src="https://camo.githubusercontent.com/992817a4faf2ac4a0c0be283728c2c09d06c2703acce2ad8bf31f27a0a3b9174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465">
+        <img src="[https://camo.githubusercontent.com/992817a4faf2ac4a0c0be283728c2c09d06c2703acce2ad8bf31f27a0a3b9174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465](https://cdn-icons-png.flaticon.com/512/7867/7867852.png)">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ronaldosegundojr">
