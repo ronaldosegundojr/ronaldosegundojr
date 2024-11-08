@@ -56,7 +56,7 @@
 <h3><b>Contato :iphone: </b></h3>
 <p align="center">
       <a href="https://ronaldosegundojr.github.io/site.ronaldosegundojr/">
-    <img src="https://cdn-icons-png.flaticon.com/512/7867/7867852.png" alt="Icon" width="200px" height="200px">
+    <img src="https://cdn-icons-png.flaticon.com/512/7867/7867852.png" alt="Icon" width="100px" height="80px">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ronaldosegundojr">
