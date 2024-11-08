@@ -34,6 +34,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  </p>
 
+<h3><b>Estou a procura de uma nova oportunidade, se tiver alguma oportunidade me chame! </b></h3></p>
+
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
 - <b>Web Analytics Analyst</b> na <b>Media.Monks</b> (Mai/2023 - Out/2024)
@@ -44,6 +46,9 @@
 - Principais Tecnologias: SQL, Python, Tableau, Javascript, Google Analytics 4, Google Tag Maneger, SCRUM, HTML, CSS, Git, Flask, React, Nextjs.
 
 <h3><b>🇺🇸 - English</b></h3>
+
+
+<h3><b> Looking for Job! </b></h3></p>
 
 - <b>Web Analytics Analyst</b> at <b>Media.Monks</b> (Mai/2023 - Out/2024)
 - <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b> SCRUM. </b> (Mai/2022 - Jan/2023)
