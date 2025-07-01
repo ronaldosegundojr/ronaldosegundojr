@@ -40,9 +40,8 @@
 - <b>Web Analytics Analyst</b> at <b>Media.Monks</b> (Mai/2023 - Out/2024)
 - <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b> SCRUM. </b> (Mai/2022 - Jan/2023)
 - <b>5 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance</b>.
-- Student of **Statistics and Data Science**
-- University: **University of São Paulo (USP) - Câmpus São Carlos-SP**
-- Main Technologies: SQL, Python, Tableau, Javascript, Google Analytics 4, Google Tag Maneger, SCRUM, HTML, CSS, Git, Flask, React, Nextjs.
+- Area of **Statistics and Data Science**
+- Main Technologies: Google Analytics 4, Google Tag Maneger, Looker Studio, Adobe Analytics, Adobe CDP, Adobe CJA, Meridian MMM, Tealium, Docker, Google Cloud Platform, Big Query, SQL, Python, Tableau, Javascript, SCRUM, HTML, CSS, Git, Flask, React, Nextjs, React Native, Expo.
 
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
@@ -52,7 +51,7 @@
 - <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b> - <b> 5 anos de experiência </b>.
 - Estudante de **Estatística e Ciência de Dados**
 - Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- Principais Tecnologias: SQL, Python, Tableau, Javascript, Google Analytics 4, Google Tag Maneger, SCRUM, HTML, CSS, Git, Flask, React, Nextjs.
+- Principais Tecnologias: Google Analytics 4, Google Tag Maneger, Looker Studio, Adobe Analytics, Adobe CDP, Adobe CJA, Meridian MMM, Tealium, Docker, Google Cloud Platform, Big Query, SQL, Python, Tableau, Javascript, SCRUM, HTML, CSS, Git, Flask, React, Nextjs, React Native, Expo.
 
 
 <h3><b>Contato :iphone: </b></h3>
