@@ -39,19 +39,18 @@
 - <b>Senior Data Analyst</b> at <b>Webjump (AI/R Group - Compass UOL)</b> (Fev/2025 - now)
 - <b>Web Analytics Analyst</b> at <b>Media.Monks</b> (Mai/2023 - Out/2024)
 - <b>Data Analyst</b> at <b>Hoffmann–La Roche</b> working on the team <b> DASO (Data and Analytics Solution Organization)</b> as a <b>Business Analyst (BA)</b> inside model <b> SCRUM. </b> (Mai/2022 - Jan/2023)
-- <b>5 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance</b>.
+- <b>Senior Data Analyst in 5 years working as Data Analyst</b> at <b>Proethic Consulting of Compliance (2019 - 2024)</b>.
 - Area of **Statistics and Data Science**
-- Main Technologies: Google Analytics 4, Google Tag Maneger, Looker Studio, Adobe Analytics, Adobe CDP, Adobe CJA, Meridian MMM, Tealium, Docker, Google Cloud Platform, Big Query, SQL, Python, Tableau, Javascript, SCRUM, HTML, CSS, Git, Flask, React, Nextjs, React Native, Expo.
+- Main Technologies: Google Analytics 4, Google Tag Maneger, Looker Studio, Adobe Analytics, Adobe CDP, Adobe CJA, Meridian MMM, Tealium, Docker, Google Cloud Platform, Big Query, SQL, Python, Tableau, Javascript, SCRUM, HTML, CSS, Git, Flask, React, Nextjs, React Native, Expo, Godot Game Engine.
 
 <h3><b>🇧🇷 - Português Brasil</b></h3></p>
 
 - <b>Senior Data Analyst</b> na <b>Webjump (AI/R Group - Compass UOL)</b> (Fev/2025 - atualmente)
 - <b>Web Analytics Analyst</b> na <b>Media.Monks</b> (Mai/2023 - Out/2024)
 - <b>Analista de Dados</b> na <b>Hoffmann–La Roche</b> atuando no time <b>DASO (Data and Analytics Solution Organization)</b> como <b>Business Analyst (BA)</b> dentro do modelo <b>SCRUM.</b>  (Mai/2022 - Jan/2023)
-- <b>Analista de Dados</b> na <b>Proethic Consultoria de Compliance</b> - <b> 5 anos de experiência </b>.
-- Estudante de **Estatística e Ciência de Dados**
-- Universidade: **Universidade de São Paulo (USP) - Câmpus São Carlos-SP**
-- Principais Tecnologias: Google Analytics 4, Google Tag Maneger, Looker Studio, Adobe Analytics, Adobe CDP, Adobe CJA, Meridian MMM, Tealium, Docker, Google Cloud Platform, Big Query, SQL, Python, Tableau, Javascript, SCRUM, HTML, CSS, Git, Flask, React, Nextjs, React Native, Expo.
+- <b>Analista de Dados Senior</b> na <b>Proethic Consultoria de Compliance</b> - <b> 5 anos de experiência (2019 - 2024)</b>.
+- Área de **Estatística e Ciência de Dados**
+- Principais Tecnologias: Google Analytics 4, Google Tag Maneger, Looker Studio, Adobe Analytics, Adobe CDP, Adobe CJA, Meridian MMM, Tealium, Docker, Google Cloud Platform, Big Query, SQL, Python, Tableau, Javascript, SCRUM, HTML, CSS, Git, Flask, React, Nextjs, React Native, Expo, Godot Game Engine.
 
 
 <h3><b>Contato :iphone: </b></h3>
